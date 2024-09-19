@@ -1,0 +1,9 @@
+{
+    "name": "Pacify POC",
+    "short_name": "Pacify POC",
+    "description": "Pacify POC with NextJs + PWA",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000"
+  }
